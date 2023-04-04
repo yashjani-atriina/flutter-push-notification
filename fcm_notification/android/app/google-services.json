@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166450577233",
+    "project_id": "flutter-fcm-cecfb",
+    "storage_bucket": "flutter-fcm-cecfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166450577233:android:e163c445e5d7198a31dd70",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166450577233-jbh38plr31oa7hvqa4ue53vro5qncr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU91_sXcM-o9tL9G8pe6IBLGpGEcSTYA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166450577233-jbh38plr31oa7hvqa4ue53vro5qncr15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
